@@ -1,0 +1,16 @@
+Mi Historia en la Tecnología
+
+¿Quién soy?
+Hola, soy Marlon Angulo, estudiante de la carrera de Desarrollo de Software. Lo que más me gusta es el desarrollo de páginas web, me la paso armando proyectos y viendo cómo estructurar todo desde cero para que quede bien.
+
+¿Qué me motivó a estudiar tecnología o programación?
+Siempre me dio curiosidad ver cómo están hechas las plataformas por detrás, cuando empecé a meterme con lenguajes como JavaScript o TypeScript, me motivó darme cuenta de que escribiendo unas líneas de código puedo armar sitios que sean totalmente funcionales y visualmente atractivos. Ver que algo que programas desde cero termina funcionando es lo que me empuja a seguir.
+
+¿Qué expectativas tengo del curso?
+Lo que espero del curso es agarrarle bien el ritmo a Git y GitHub, se que es básico para trabajar de forma profesional, quiero aprender a subir proyectos, colaborar con otros y entender cómo manejar los cambios sin terminar rompiendo el código por accidente.
+
+¿Cómo imagino la tecnología en el futuro?
+Yo veo que la tecnología se va a integrar cada vez más en lo que hacemos a diario para quitarnos el trabajo pesado. A nivel de desarrollo web, creo que las aplicaciones van a ser mucho más rápidas y que la inteligencia artificial nos va a servir como una herramienta clave para ayudarnos a escribir código más limpio y directo.
+
+Una reflexión personal
+Programar tiene sus ratos frustrantes cuando las cosas no salen o el código falla, pero de esos errores se aprende bastante, hacer esta tarea del Pull Request me recuerda que en el desarrollo casi nunca se trabaja solo, siempre es mejor aportar a la comunidad y colaborar para sacar buenos proyectos adelante.
